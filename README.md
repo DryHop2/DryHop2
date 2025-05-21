@@ -23,7 +23,7 @@ I'm a cybersecurity professional with a passion for threat research, behavioral 
 
 <!-- 🌐 [Personal Site](https://yourdomain.com) -->
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🧠 [TryHackMe](https://tryhackme.com/p/yourprofile](https://tryhackme.com/p/DryHop)
+- 🧠 [TryHackMe](https://tryhackme.com/p/DryHop)
 
 ---
 
