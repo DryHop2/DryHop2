@@ -1,6 +1,7 @@
 # Hi, I'm Tyler 👋
 
 🎯 Security Support Engineer III | 🧠 Threat Intelligence | 🐍 Python & Automation
+
 📍 Greater Salt Lake City, UT
 
 I'm a cybersecurity professional with a passion for threat research, behavioral analytics, and building useful tools to make defenders' lives easier. Currently working at F5 in bot defense and security operations. I bring together my backgrounds in security, data analytics, and systems thinking to solve complex problems.
