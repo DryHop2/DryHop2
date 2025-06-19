@@ -9,7 +9,7 @@ I'm a cybersecurity professional with a passion for threat research, behavioral 
 ## 🔧 Current Focus
 
 - Studying for **PenTest+** and **CASP+**  
-- Building hands-on security tooling in **Python** (currently a CLI Snort rule generator)  
+- Building hands-on security tooling in **Python** (currently a CLI Snort rule generator [Snortgen](https://github.com/DryHop2/snortgen))  
 - Exploring **AI/ML** applications in cybersecurity  
 - Studying backend development in **Go**, with emphasis on **Docker**, **CI/CD**, **databases**, and **secure design**
 
