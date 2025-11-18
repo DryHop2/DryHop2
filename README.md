@@ -15,7 +15,7 @@ I'm a cybersecurity professional with a passion for threat research, behavioral 
 
 ## 🛠️ Tech & Tools
 
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, Go (light)
 - **Security**: Incident Response, Threat Intelligence, Bot Management  
 - **Dev & Infra**: Docker, GitHub Actions, AWS, GCP  
 - **Certs**: Security+, CySA+, Project+, Network+, A+
